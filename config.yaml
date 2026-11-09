@@ -1,0 +1,5 @@
+name: 'Tuya TS0044 6-endpoint Button'
+packageKey: 'tuya-ts0044-6endpoint-button'
+description: 'TS0044 0x48 firmware workaround: presents four button components and ignores endpoints 5 and 6.'
+permissions:
+  zigbee: { }
